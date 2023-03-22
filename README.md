@@ -1,5 +1,14 @@
 # Challenge-1
 
+## Description
+The markgeting agency website is functioning as intended, general code tidyness and duplicate codes cleaned up.
+
+## Usage
+
+Externally the site appearance has no change. Internally, code has been changed, this can be viewed via inspect.
+
+Live Site: https://github.com/wontonchris/challenge-1
+
 ## User Story
 
 ```
